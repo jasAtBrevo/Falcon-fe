@@ -1,0 +1,8 @@
+.mainContainer {
+  width: 100vw;
+}
+.contentBox {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

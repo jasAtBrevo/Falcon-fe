@@ -1,11 +1,13 @@
-import './App.css'
+import "./App.css";
+import Main from "./components";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
     <>
-      <div>Hello app </div>
+      <Main />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
